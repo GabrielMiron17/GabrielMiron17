@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Miron
 
-- 📚 Estou no 2º ano do Ensino Médio, buscando enriquecer minha educação e desenvolver habilidades relevantes para o mundo atual.
+- 📚 Estou no 3º ano do Ensino Médio, buscando enriquecer minha educação e desenvolver habilidades relevantes para o mundo atual.
 - 🖥️ Focado em HTML, CSS e JavaScript para adquirir conhecimentos em programação Web.
 
 
